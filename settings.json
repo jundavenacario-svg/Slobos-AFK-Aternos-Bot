@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobot01",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "Maomao-amLy.aternos.me",
+    "ip": "orca.aternos.host",
     "port": 12891,
-    "version": "26",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
